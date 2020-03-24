@@ -12,3 +12,5 @@ Please embed the following code in your website. Please do not change the IDs.
 data-uid: Set a unique UID. If no uid is specified, the URL of the page is used as the identifier
 
 data-start: Optionally enter a start value here. This is added to the displayed count.
+
+![Demo Image](readme.png)
